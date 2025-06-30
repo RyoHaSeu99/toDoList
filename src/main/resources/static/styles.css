@@ -3,14 +3,14 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f2f4f8;
+    background-color: #bbbbbb;
 }
 
 /* 가운데 카드 형태의 컨테이너 */
 .container {
     max-width: 600px;
     margin: 60px auto;
-    background-color: #ffffff;
+    background-color: #aaaaaa;
     padding: 30px 25px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     border-radius: 10px;
